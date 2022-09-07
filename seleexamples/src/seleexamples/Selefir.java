@@ -14,7 +14,7 @@ public class Selefir {
 		  WebDriver driver=new
 		  ChromeDriver(); driver.get("http://www.google.com");
 		  driver.manage().window().maximize(); driver.quit();
-		 //
+		 ////
 	}
 
 }
