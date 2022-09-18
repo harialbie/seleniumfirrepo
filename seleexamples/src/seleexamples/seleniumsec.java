@@ -61,7 +61,7 @@ public class seleniumsec {
     	driver.get("https://www.bing.com/");
     	//Thread.sleep(3000);
     	if(driver.getTitle().equals("google1")) 
-    	{
+    	{//
     		Testcase.pass("Values are matching");
     		Testcase.log(Status.PASS, "Opened Bing Successfully");
     	}else {
