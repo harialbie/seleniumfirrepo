@@ -5,7 +5,6 @@
     <classes>
       <class name="seleexamples.seleniumsec">
         <methods>
-          <include name="method1"/>
           <include name="as"/>
           <include name="bs"/>
           <include name="method2"/>

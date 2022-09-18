@@ -10,5 +10,6 @@
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="E:/Jarfiles/extentreports-5.0.9.jar"/>
 	<classpathentry kind="lib" path="E:/Jarfiles/freemarker-2.3.31.jar"/>
+	<classpathentry kind="lib" path="E:/Jarfiles/rxjava-3.1.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
